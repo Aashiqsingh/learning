@@ -1,0 +1,8 @@
+.box{
+    height: 100px;
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+}
